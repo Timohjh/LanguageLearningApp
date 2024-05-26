@@ -1,0 +1,798 @@
+{
+  "title": "En-Fr Verbs Conjugation",
+  "type": "verb",
+  "conjugations": 6,
+  "pronouns": [
+    "Je",
+    "Tu",
+    "Il/Elle",
+    "Nous",
+    "Vous",
+    "Ils/Elles"
+  ],
+  "verbs": [
+    {
+      "id": 1,
+      "e": "be",
+      "i": "être",
+      "f": {
+        "p": [
+          "suis",
+          "es",
+          "est",
+          "sommes",
+          "êtes",
+          "sont"
+        ],
+        "m": [
+          "étais",
+          "étais",
+          "était",
+          "étions",
+          "étiez",
+          "étaient"
+        ],
+        "f": [
+          "serai",
+          "seras",
+          "sera",
+          "serons",
+          "serez",
+          "seront"
+        ],
+        "c": [
+          "serais",
+          "serais",
+          "serait",
+          "serions",
+          "seriez",
+          "seraient"
+        ],
+        "s": [
+          "sois",
+          "sois",
+          "soit",
+          "soyons",
+          "soyez",
+          "soient"
+        ],
+        "e": [
+          "sois",
+          "soyons",
+          "soyez"
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "e": "have",
+      "i": "avoir",
+      "f": {
+        "p": [
+          "ai",
+          "as",
+          "a",
+          "avons",
+          "avez",
+          "ont"
+        ],
+        "m": [
+          "avais",
+          "avais",
+          "avait",
+          "avions",
+          "aviez",
+          "avaient"
+        ],
+        "f": [
+          "aurai",
+          "auras",
+          "aura",
+          "aurons",
+          "aurez",
+          "auront"
+        ],
+        "c": [
+          "aurais",
+          "aurais",
+          "aurait",
+          "aurions",
+          "auriez",
+          "auraient"
+        ],
+        "s": [
+          "aie",
+          "aies",
+          "ait",
+          "ayons",
+          "ayez",
+          "aient"
+        ],
+        "e": [
+          "aie",
+          "ayons",
+          "ayez"
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "e": "do",
+      "i": "faire",
+      "f": {
+        "p": [
+          "fais",
+          "fais",
+          "fait",
+          "faisons",
+          "faites",
+          "font"
+        ],
+        "m": [
+          "faisais",
+          "faisais",
+          "faisait",
+          "faisions",
+          "faisiez",
+          "faisaient"
+        ],
+        "f": [
+          "ferai",
+          "feras",
+          "fera",
+          "ferons",
+          "ferez",
+          "feront"
+        ],
+        "c": [
+          "ferais",
+          "ferais",
+          "ferait",
+          "ferions",
+          "feriez",
+          "feraient"
+        ],
+        "s": [
+          "fasse",
+          "fasses",
+          "fasse",
+          "fassions",
+          "fassiez",
+          "fassent"
+        ],
+        "e": [
+          "fais",
+          "faisons",
+          "faites"
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "e": "go",
+      "i": "aller",
+      "f": {
+        "p": [
+          "vais",
+          "vas",
+          "va",
+          "allons",
+          "allez",
+          "vont"
+        ],
+        "m": [
+          "allais",
+          "allais",
+          "allait",
+          "allions",
+          "alliez",
+          "allaient"
+        ],
+        "f": [
+          "irai",
+          "iras",
+          "ira",
+          "irons",
+          "irez",
+          "iront"
+        ],
+        "c": [
+          "irais",
+          "irais",
+          "irait",
+          "irions",
+          "iriez",
+          "iraient"
+        ],
+        "s": [
+          "aille",
+          "ailles",
+          "aille",
+          "allions",
+          "alliez",
+          "aillent"
+        ],
+        "e": [
+          "va",
+          "allons",
+          "allez"
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "e": "say",
+      "i": "dire",
+      "f": {
+        "p": [
+          "dis",
+          "dis",
+          "dit",
+          "disons",
+          "dites",
+          "disent"
+        ],
+        "m": [
+          "disais",
+          "disais",
+          "disait",
+          "disions",
+          "disiez",
+          "disaient"
+        ],
+        "f": [
+          "dirai",
+          "diras",
+          "dira",
+          "dirons",
+          "direz",
+          "diront"
+        ],
+        "c": [
+          "dirais",
+          "dirais",
+          "dirait",
+          "dirions",
+          "diriez",
+          "diraient"
+        ],
+        "s": [
+          "dise",
+          "dises",
+          "dise",
+          "disions",
+          "disiez",
+          "disent"
+        ],
+        "e": [
+          "dis",
+          "disons",
+          "dites"
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "e": "get",
+      "i": "obtenir",
+      "f": {
+        "p": [
+          "obtiens",
+          "obtiens",
+          "obtient",
+          "obtenons",
+          "obtenez",
+          "obtiennent"
+        ],
+        "m": [
+          "obtenais",
+          "obtenais",
+          "obtenait",
+          "obtenions",
+          "obteniez",
+          "obtenaient"
+        ],
+        "f": [
+          "obtiendrai",
+          "obtiendras",
+          "obtiendra",
+          "obtiendrons",
+          "obtiendrez",
+          "obtiendront"
+        ],
+        "c": [
+          "obtiendrais",
+          "obtiendrais",
+          "obtiendrait",
+          "obtiendrions",
+          "obtiendriez",
+          "obtiendraient"
+        ],
+        "s": [
+          "obtienne",
+          "obtiennes",
+          "obtienne",
+          "obtenions",
+          "obteniez",
+          "obtiennent"
+        ],
+        "e": [
+          "obtiens",
+          "obtenons",
+          "obtenez"
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "e": "make",
+      "i": "faire",
+      "f": {
+        "p": [
+          "fais",
+          "fais",
+          "fait",
+          "faisons",
+          "faites",
+          "font"
+        ],
+        "m": [
+          "faisais",
+          "faisais",
+          "faisait",
+          "faisions",
+          "faisiez",
+          "faisaient"
+        ],
+        "f": [
+          "ferai",
+          "feras",
+          "fera",
+          "ferons",
+          "ferez",
+          "feront"
+        ],
+        "c": [
+          "ferais",
+          "ferais",
+          "ferait",
+          "ferions",
+          "feriez",
+          "feraient"
+        ],
+        "s": [
+          "fasse",
+          "fasses",
+          "fasse",
+          "fassions",
+          "fassiez",
+          "fassent"
+        ],
+        "e": [
+          "fais",
+          "faisons",
+          "faites"
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "e": "know",
+      "i": "savoir",
+      "f": {
+        "p": [
+          "sais",
+          "sais",
+          "sait",
+          "savons",
+          "savez",
+          "savent"
+        ],
+        "m": [
+          "savais",
+          "savais",
+          "savait",
+          "savions",
+          "saviez",
+          "savaient"
+        ],
+        "f": [
+          "saurai",
+          "sauras",
+          "saura",
+          "saurons",
+          "saurez",
+          "sauront"
+        ],
+        "c": [
+          "saurais",
+          "saurais",
+          "saurait",
+          "saurions",
+          "sauriez",
+          "sauraient"
+        ],
+        "s": [
+          "sache",
+          "saches",
+          "sache",
+          "sachions",
+          "sachiez",
+          "sachent"
+        ],
+        "e": [
+          "sache",
+          "sachons",
+          "sachez"
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "e": "think",
+      "i": "penser",
+      "f": {
+        "p": [
+          "pense",
+          "penses",
+          "pense",
+          "pensons",
+          "pensez",
+          "pensent"
+        ],
+        "m": [
+          "pensais",
+          "pensais",
+          "pensait",
+          "pensions",
+          "pensiez",
+          "pensaient"
+        ],
+        "f": [
+          "penserai",
+          "penseras",
+          "pensera",
+          "penserons",
+          "penserez",
+          "penseront"
+        ],
+        "c": [
+          "penserais",
+          "penserais",
+          "penserait",
+          "penserions",
+          "penseriez",
+          "penseraient"
+        ],
+        "s": [
+          "pense",
+          "penses",
+          "pense",
+          "pensions",
+          "pensiez",
+          "pensent"
+        ],
+        "e": [
+          "pense",
+          "pensons",
+          "pensez"
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "e": "take",
+      "i": "prendre",
+      "f": {
+        "p": [
+          "prends",
+          "prends",
+          "prend",
+          "prenons",
+          "prenez",
+          "prennent"
+        ],
+        "m": [
+          "prenais",
+          "prenais",
+          "prenait",
+          "prenions",
+          "preniez",
+          "prenaient"
+        ],
+        "f": [
+          "prendrai",
+          "prendras",
+          "prendra",
+          "prendrons",
+          "prendrez",
+          "prendront"
+        ],
+        "c": [
+          "prendrais",
+          "prendrais",
+          "prendrait",
+          "prendrions",
+          "prendriez",
+          "prendraient"
+        ],
+        "s": [
+          "prenne",
+          "prennes",
+          "prenne",
+          "prenions",
+          "preniez",
+          "prennent"
+        ],
+        "e": [
+          "prends",
+          "prenons",
+          "prenez"
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "e": "see",
+      "i": "voir",
+      "f": {
+        "p": [
+          "vois",
+          "vois",
+          "voit",
+          "voyons",
+          "voyez",
+          "voient"
+        ],
+        "m": [
+          "voyais",
+          "voyais",
+          "voyait",
+          "voyions",
+          "voyiez",
+          "voyaient"
+        ],
+        "f": [
+          "verrai",
+          "verras",
+          "verra",
+          "verrons",
+          "verrez",
+          "verront"
+        ],
+        "c": [
+          "verrais",
+          "verrais",
+          "verrait",
+          "verrions",
+          "verriez",
+          "verraient"
+        ],
+        "s": [
+          "voie",
+          "voies",
+          "voie",
+          "voyions",
+          "voyiez",
+          "voient"
+        ],
+        "e": [
+          "vois",
+          "voyons",
+          "voyez"
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "e": "come",
+      "i": "venir",
+      "f": {
+        "p": [
+          "viens",
+          "viens",
+          "vient",
+          "venons",
+          "venez",
+          "viennent"
+        ],
+        "m": [
+          "venais",
+          "venais",
+          "venait",
+          "venions",
+          "veniez",
+          "venaient"
+        ],
+        "f": [
+          "viendrai",
+          "viendras",
+          "viendra",
+          "viendrons",
+          "viendrez",
+          "viendront"
+        ],
+        "c": [
+          "viendrais",
+          "viendrais",
+          "viendrait",
+          "viendrions",
+          "viendriez",
+          "viendraient"
+        ],
+        "s": [
+          "vienne",
+          "viennes",
+          "vienne",
+          "venions",
+          "veniez",
+          "viennent"
+        ],
+        "e": [
+          "viens",
+          "venons",
+          "venez"
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "e": "want",
+      "i": "vouloir",
+      "f": {
+        "p": [
+          "veux",
+          "veux",
+          "veut",
+          "voulons",
+          "voulez",
+          "veulent"
+        ],
+        "m": [
+          "voulais",
+          "voulais",
+          "voulait",
+          "voulions",
+          "vouliez",
+          "voulaient"
+        ],
+        "f": [
+          "voudrai",
+          "voudras",
+          "voudra",
+          "voudrons",
+          "voudrez",
+          "voudront"
+        ],
+        "c": [
+          "voudrais",
+          "voudrais",
+          "voudrait",
+          "voudrions",
+          "voudriez",
+          "voudraient"
+        ],
+        "s": [
+          "veuille",
+          "veuilles",
+          "veuille",
+          "voulions",
+          "vouliez",
+          "veuillent"
+        ],
+        "e": [
+          "veux",
+          "voulons",
+          "voulez"
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "e": "use",
+      "i": "utiliser",
+      "f": {
+        "p": [
+          "utilise",
+          "utilises",
+          "utilise",
+          "utilisons",
+          "utilisez",
+          "utilisent"
+        ],
+        "m": [
+          "utilisais",
+          "utilisais",
+          "utilisait",
+          "utilisions",
+          "utilisiez",
+          "utilisaient"
+        ],
+        "f": [
+          "utiliserai",
+          "utiliseras",
+          "utilisera",
+          "utiliserons",
+          "utiliserez",
+          "utiliseront"
+        ],
+        "c": [
+          "utiliserais",
+          "utiliserais",
+          "utiliserait",
+          "utiliserions",
+          "utiliseriez",
+          "utiliseraient"
+        ],
+        "s": [
+          "utilise",
+          "utilises",
+          "utilise",
+          "utilisions",
+          "utilisiez",
+          "utilisent"
+        ],
+        "e": [
+          "utilise",
+          "utilisons",
+          "utilisez"
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "e": "find",
+      "i": "trouver",
+      "f": {
+        "p": [
+          "trouve",
+          "trouves",
+          "trouve",
+          "trouvons",
+          "trouvez",
+          "trouvent"
+        ],
+        "m": [
+          "trouvais",
+          "trouvais",
+          "trouvait",
+          "trouvions",
+          "trouviez",
+          "trouvaient"
+        ],
+        "f": [
+          "trouverai",
+          "trouveras",
+          "trouvera",
+          "trouverons",
+          "trouverez",
+          "trouveront"
+        ],
+        "c": [
+          "trouverais",
+          "trouverais",
+          "trouverait",
+          "trouverions",
+          "trouveriez",
+          "trouveraient"
+        ],
+        "s": [
+          "trouve",
+          "trouves",
+          "trouve",
+          "trouvions",
+          "trouviez",
+          "trouvent"
+        ],
+        "e": [
+          "trouve",
+          "trouvons",
+          "trouvez"
+        ]
+      }
+    }
+  ]
+}
+    
+  
+  
